@@ -6,4 +6,4 @@ categories: news
 ---
 
 Yoyodyne IT is a company based in France developing opensource software, generally
-in the information security fieldor, as the kids say, Cyber.
+in the information security field. Or, as the hip kids say, Cyber.

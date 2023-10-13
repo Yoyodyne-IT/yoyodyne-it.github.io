@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Yoyodyne IT writes opensource software.
+Yoyodyne IT does opensource software, and John is here to help.
