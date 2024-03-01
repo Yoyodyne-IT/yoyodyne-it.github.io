@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Lookyloo"
+date:   2024-03-01
+categories: tools
+---
+
+[![Lookyloo](/assets/images/lookyloo.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}](https://github.com/Lookyloo)
+
+*[Lookyloo](https://lookyloo.circl.lu/)* is a web interface that captures a webpage and then displays a tree of the domains, that call each other.
+
+
+[![Githup capture on Lookyloo](/assets/images/lookyloo_github.png){:style="display:block; margin-left:auto; margin-right:auto"}](https://lookyloo.circl.lu)

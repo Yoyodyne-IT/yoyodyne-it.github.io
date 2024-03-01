@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Pandora"
+date:   2024-03-01
+categories: tools
+---
+
+[![Pandora](/assets/images/pandora.svg){: width="200" style="display:block; margin-left:auto; margin-right:auto"}](https://github.com/pandora-analysis)
+
+*[Pandora](https://pandora.circl.lu/)* is an analysis framework to discover if a file is suspicious and conveniently show the results.
+
+## Features
+
+- Flexible and open source framework to integrate external tools for checking files.
+- A convenient preview module to allow a safe preview for end-users.
+- A way to share results on-demand by the end-users.
+- Complete standalone open source solution which can allow any organisation to run their own without leaking information or sensitive documents.
+- Analysis modules included are [hashlookup](https://github.com/pandora-analysis/pandora/blob/main/pandora/workers/hashlookup.py), [hybridanalysis](https://github.com/pandora-analysis/pandora/blob/main/pandora/workers/hybridanalysis.py), [irma](https://github.com/pandora-analysis/pandora/blob/main/pandora/workers/irma.py), [joesandbox](https://github.com/pandora-analysis/pandora/blob/main/pandora/workers/joesandbox.py), [malwarebazaar](https://github.com/pandora-analysis/pandora/blob/main/pandora/workers/malwarebazaar.py), [msodde](https://github.com/pandora-analysis/pandora/blob/main/pandora/workers/msodde.py), [mwdb](https://github.com/pandora-analysis/pandora/blob/main/pandora/workers/mwdb.py), [ole](https://github.com/pandora-analysis/pandora/blob/main/pandora/workers/ole.py), [virustotal](https://github.com/pandora-analysis/pandora/blob/main/pandora/workers/virustotal.py), [xmldeobfuscator](https://github.com/pandora-analysis/pandora/blob/main/pandora/workers/xmldeobfuscator.py), [yara](https://github.com/pandora-analysis/pandora/blob/main/pandora/workers/yara.py).
+

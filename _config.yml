@@ -21,7 +21,7 @@
 title: Yoyodyne IT
 email: john@yoyodyne-it.eu
 description: >- # this means to ignore newlines until "baseurl:"
-  Yoyodyne IT does opensource software, ask for [John](https://en.wikipedia.org/wiki/The_Adventures_of_Buckaroo_Banzai_Across_the_8th_Dimension#Plot).
+  Yoyodyne IT does opensource software, ask for John, they're going to help.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yoyodyne-it.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
